@@ -48,5 +48,5 @@ Note:
 Connect to the instance and run the code below.
 ```
 sudo su
-curl -sLo cs2.sh https://raw.githubusercontent.com/joxuwa/game-server/master/README.md && chmod +x cs2.sh && bash cs2.sh
+curl -sLo cs2.sh https://raw.githubusercontent.com/joxuwa/game-server/master/games/cs2.sh && chmod +x cs2.sh && bash cs2.sh
 ```
