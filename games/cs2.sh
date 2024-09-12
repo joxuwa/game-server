@@ -5,22 +5,26 @@ source ./../get_colors.sh
 
 # Installing Dependencies
 echo -e "${YELLOW}Installing Dependencies${NC}"
-echo -e "========================================\n"
+echo -e "========================================"
+printf "\n"
 
 # Create New User For Run The Server
 echo -e "${YELLOW}Create New User${NC}"
 echo -e "========================================"
-echo -e "User ${CYAN}cs2${NC} will be created\n"
+echo -e "User ${CYAN}cs2${NC} will be created"
+printf "\n"
 
 # Installing SteamCMD
 echo -e "${YELLOW}Installing SteamCMD${NC}"
-echo -e "========================================\n"
+echo -e "========================================"
+printf "\n"
 
 # Installing Counter-Strike 2 Dedicated Server
 echo -e "${YELLOW}Installing Counter-Strike 2 Dedicated Server${NC}"
 echo -e "========================================"
 echo -e "[${MINT}START${NC}] Installing CS2 Dedicated Server from SteamCMD"
-echo -e "[${MINT}START${NC}] Fix missing data\n"
+echo -e "[${MINT}START${NC}] Fix missing data"
+printf "\n"
 
 # How To Use
 echo -e "${YELLOW}How To Use${NC}"
